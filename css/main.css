@@ -1507,7 +1507,7 @@ header .logo a {
 }
 .about-content .info-list {
 	list-style: none;
-	margin-left: 0;
+	margin-left: 100px;
 }
 .about-content .info-list li {
 	padding: 0 0 1.5rem 0;
